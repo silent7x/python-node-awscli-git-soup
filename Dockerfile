@@ -1,5 +1,4 @@
-FROM node:latest
-
+FROM node:14.16.1
 
 RUN \
     apt-get update \
