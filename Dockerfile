@@ -19,7 +19,3 @@ RUN pip --version
 RUN pip install setuptools
 RUN pip install wheel
 RUN pip install awscli --upgrade
-RUN pip install python-telegram-bot --upgrade
-RUN pip install beautifulsoup4
-RUN pip install requests
-RUN pip install html5lib 
